@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68e9c0fc-b424-4d22-a711-8d5aed564201" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="48ba9dcf-0d39-406d-9534-b19e832d80e3" />
+  <component name="ProjectId" id="1hbkzqWxgbfJEUjPyqzU45iiU6E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/projet/static/assets" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GCBµ\Desktop\New folder\arnn\projet\static\assets" />
+      <recent name="C:\Users\GCBµ\Desktop\New folder\arnn\projet\static" />
+      <recent name="C:\Users\GCBµ\Desktop\New folder\arnn\templates" />
+      <recent name="C:\Users\GCBµ\Desktop\New folder\arnn\templates\css" />
+      <recent name="C:\Users\GCBµ\Desktop\New folder\arnn\templates\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GCBµ\Desktop\New folder\arnn\projet\static\assets" />
+      <recent name="C:\Users\GCBµ\Desktop\New folder\arnn\projet\static" />
+      <recent name="C:\Users\GCBµ\Desktop\New folder\arnn\projet" />
+      <recent name="C:\Users\GCBµ\Desktop\New folder\arnn\arnn\static\css" />
+      <recent name="C:\Users\GCBµ\Desktop\New folder\arnn\projet\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="projet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="arnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GCBµ\Documents\env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projet/" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.projet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68e9c0fc-b424-4d22-a711-8d5aed564201" name="Default Changelist" comment="" />
+      <created>1600287444685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600287444685</updated>
+      <workItem from="1600287446303" duration="1207000" />
+      <workItem from="1600289264933" duration="53989000" />
+      <workItem from="1601129384783" duration="1034000" />
+      <workItem from="1601387577505" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Inspections" timestamp="1600287692298">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1600287692298" />
+    <state x="361" y="0" key="#apps" timestamp="1600471552851">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#apps/0.0.1280.680@0.0.1280.680" timestamp="1600471552851" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600510481164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1600510481164" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600510662253">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1600510662253" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1600471570551">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600471570551" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1600471570550">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600471570550" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1600471570549">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600471570549" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1600471570551">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600471570551" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1600287706451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1600287706451" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1601387577963">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1601387577963" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/arnn$apps.coverage" NAME="apps Coverage Results" MODIFIED="1600471517218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projet" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>inter</title>
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    </head>
+<body id="test">
+<script>
+    $('#test').load("{% url 'up' %}");
+    $('#test').load("{% url 'test' %}");
+</script>
+</body>
+</html>
